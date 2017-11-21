@@ -32,7 +32,7 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class CommonUtil implements ApplicationConstants{
 
-	public WebDriver driver;
+	public WebDriver driver ;
 	private ExtentReports extent;
 	private ExtentTest test;
 	public static String OBJECT_FILE_PATH="./Object/ObjectRepository.xlsx";
