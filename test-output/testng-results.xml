@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="75878" started-at="2017-11-20T13:33:28Z" finished-at="2017-11-20T13:34:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="75878" started-at="2017-11-20T13:33:28Z" finished-at="2017-11-20T13:34:44Z">
+      <class name="com.onesource.test.TC_ManageBluePrint_002">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.onesource.test.TC_ManageBluePrint_002@18eed359]" name="beforeMethod" is-config="true" duration-ms="15391" started-at="2017-11-20T19:04:01Z" finished-at="2017-11-20T19:04:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[data_001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ObjectName]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Objects]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.onesource.test.TC_ManageBluePrint_002@18eed359]" name="test" duration-ms="26825" started-at="2017-11-20T19:04:16Z" finished-at="2017-11-20T19:04:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.onesource.test.TC_ManageBluePrint_002@18eed359]" name="afterMethod" is-config="true" duration-ms="934" started-at="2017-11-20T19:04:43Z" finished-at="2017-11-20T19:04:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.onesource.test.TC_ManageBluePrint_002 -->
+      <class name="com.onesource.test.TC_Login_001">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.onesource.test.TC_Login_001@520a3426]" name="beforeMethod" is-config="true" duration-ms="17956" started-at="2017-11-20T19:03:28Z" finished-at="2017-11-20T19:03:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[data_001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.onesource.test.TC_Login_001@520a3426]" name="test" duration-ms="13492" started-at="2017-11-20T19:03:46Z" finished-at="2017-11-20T19:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.onesource.test.TC_Login_001@520a3426]" name="afterMethod" is-config="true" duration-ms="1237" started-at="2017-11-20T19:03:59Z" finished-at="2017-11-20T19:04:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.onesource.test.TC_Login_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

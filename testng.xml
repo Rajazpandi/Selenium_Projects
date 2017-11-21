@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<parameter name="UniqueDataId" value="data_001"></parameter>
+		<parameter name="UniqueObjectId" value="ObjectName"></parameter>
+		<parameter name="SheetName" value="Objects"></parameter>
+		<classes>
+			<class name="com.onesource.test.TC_Login_001"/>
+			<class name="com.onesource.test.TC_ManageBluePrint_002" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

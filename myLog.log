@@ -1,0 +1,19 @@
+[2017-11-21 17:35:00,465] CommonUtil.java ---> URL Launched Successfully
+[2017-11-21 17:35:01,085] CommonUtil.java ---> The text automq entered successfully
+[2017-11-21 17:35:01,547] CommonUtil.java ---> The text Avaya#2017 entered successfully
+[2017-11-21 17:35:11,369] CommonUtil.java ---> Button successfully clicked
+[2017-11-21 17:35:24,285] CommonUtil.java ---> URL Launched Successfully
+[2017-11-21 17:35:24,832] CommonUtil.java ---> The text automq entered successfully
+[2017-11-21 17:35:25,301] CommonUtil.java ---> The text Avaya#2017 entered successfully
+[2017-11-21 17:35:34,262] CommonUtil.java ---> Button successfully clicked
+[2017-11-21 17:35:35,674] CommonUtil.java ---> Link successfully clicked
+[2017-11-21 17:35:37,111] CommonUtil.java ---> Value -'United States'- selected from Drop down Home_country sucessfully
+[2017-11-21 17:35:37,156] CommonUtil.java ---> Home_selectcountry radio button already checked
+[2017-11-21 17:35:38,732] CommonUtil.java ---> Button successfully clicked
+[2017-11-21 17:35:38,826] CommonUtil.java ---> Home_designquote element is clicked
+[2017-11-21 17:35:38,912] CommonUtil.java ---> Home_configurator element is clicked
+[2017-11-21 17:35:39,027] CommonUtil.java ---> Home_manageblueprint element is clicked
+[2017-11-21 17:35:39,063] CommonUtil.java ---> Window Switched successfully
+[2017-11-21 17:35:39,079] CommonUtil.java ---> Window Switched successfully
+[2017-11-21 17:35:45,644] CommonUtil.java ---> The text BP5013036 entered successfully
+[2017-11-21 17:35:46,201] CommonUtil.java ---> Button successfully clicked
