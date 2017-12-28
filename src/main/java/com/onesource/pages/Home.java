@@ -27,5 +27,12 @@ public class Home extends CommonUtil {
 		mouseHover("Home_configurator");
 		mouseHoverAndClick("Home_manageblueprint");
 	}
+	
+public void selectManageBluePrint1(WebDriver driver,ExtentReports extent,ExtentTest test){
+		
+		mouseHover("Home_designquote");
+		mouseHover("Home_configurator");
+		mouseHoverAndClick("Home_manageblueprint");
+	}
 
 }
